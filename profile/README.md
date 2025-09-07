@@ -25,7 +25,7 @@ We provide **scalable, maintainable full-stack solutions** without redundant dev
 
 Have a project, question, or just want to say hi? Reach out anytime!
 
-- 🌐 [Website](http://1234)
+- 🌐 [Website]()
 - 📧 [Email](mailto:bygithaka@gmail.com)
 
 <br/>
