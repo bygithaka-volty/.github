@@ -1,4 +1,4 @@
-## Volty
+# Volty
 
 **A Full-Stack Solution Provider | Web, Mobile & Desktop**
 
